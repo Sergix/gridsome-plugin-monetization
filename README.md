@@ -1,1 +1,1 @@
-gridsome-web-monetization
+# gridsome-web-monetization
