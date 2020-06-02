@@ -1,0 +1,12 @@
+{
+  "name": "web-monetization",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "dev": "gridsome develop --port 8000",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  }
+}
