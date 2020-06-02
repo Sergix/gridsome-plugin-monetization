@@ -1,9 +1,19 @@
 {
-  "name": "gridsome-web-monetization",
+  "name": "gridsome-plugin-monetization",
   "version": "1.0.0",
   "description": "Gridsome web monetization plugin.",
+  "repository": "https://github.com/sergix/gridsome-plugin-monetization",
   "main": "gridsome.client.js",
   "author": "sergix",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "sergix <hello@sergix.dev>"
+    }
+  ],
+  "files": [
+    "*.js",
+    "*.json"
+  ],
   "private": false
 }
