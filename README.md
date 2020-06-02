@@ -8,7 +8,7 @@
 
 ![Gridsome + Web Monetization](assets/gridsome_webmo_logo.svg)
 
-> Web monetization module for Gridsome.
+> Web monetization plugin for Gridsome.
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
@@ -17,7 +17,7 @@
 1. Add `gridsome-plugin-monetization` dependency to your project
 
 ```bash
-yarn add gridsome-monetization # or npm install gridsome-monetization
+yarn add gridsome-plugin-monetization # or npm install gridsome-plugin-monetization
 ```
 
 2. Add `gridsome-plugin-monetization` to the `plugins` section of `gridsome.config.js`
@@ -191,6 +191,12 @@ export default {
 4. `cd demo/`
 5. `yarn link gridsome-plugin-monetization` or `npm link gridsome-plugin-monetization` in the `demo/` directory
 6. Start the development server with `yarn dev` or `npm run dev`
+
+## Demo
+
+A basic demo is hosted on [💻 **CodeSandbox**](https://codesandbox.io/embed/gridsome-plugin-monetization-3nf3w?fontsize=14&hidenavigation=1&theme=light).
+
+> **NOTE:** By default, `<iframe>` components do not have monetization enabled, so the inline project browser in CodeSandbox will not work with monetization. However, you can open the browser in another tab or [access the project here](https://3nf3w.sse.codesandbox.io/) to see it in action.
 
 ## License
 
