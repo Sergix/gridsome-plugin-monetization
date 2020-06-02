@@ -15,5 +15,8 @@
     "*.js",
     "*.json"
   ],
+  "keywords": [
+    "gridsome-plugin"
+  ],
   "private": false
 }
