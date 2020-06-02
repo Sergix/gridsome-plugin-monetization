@@ -192,6 +192,12 @@ export default {
 5. `yarn link gridsome-plugin-monetization` or `npm link gridsome-plugin-monetization` in the `demo/` directory
 6. Start the development server with `yarn dev` or `npm run dev`
 
+## Demo
+
+A basic demo is hosted on [💻 **CodeSandbox**](https://codesandbox.io/embed/gridsome-plugin-monetization-3nf3w?fontsize=14&hidenavigation=1&theme=light).
+
+> **NOTE:** By default, `<iframe>` components do not have monetization enabled, so the inline project browser in CodeSandbox will not work with monetization. However, you can open the browser in another tab or [access the project here](https://3nf3w.sse.codesandbox.io/) to see it in action.
+
 ## License
 
 [MIT License](./LICENSE)

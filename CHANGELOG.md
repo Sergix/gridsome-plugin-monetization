@@ -1,6 +1,11 @@
 # Changelog
 
-[v0.1.0]
+[Unreleased]
+
+- add Demo section to README
+- update gitignore
+
+[v1.0.0]
 
 - fix meta appending
 - update README with docs
