@@ -8,7 +8,7 @@
 
 ![Gridsome + Web Monetization](assets/gridsome_webmo_logo.svg)
 
-> Web monetization module for Gridsome.
+> Web monetization plugin for Gridsome.
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
@@ -17,7 +17,7 @@
 1. Add `gridsome-plugin-monetization` dependency to your project
 
 ```bash
-yarn add gridsome-monetization # or npm install gridsome-monetization
+yarn add gridsome-plugin-monetization # or npm install gridsome-plugin-monetization
 ```
 
 2. Add `gridsome-plugin-monetization` to the `plugins` section of `gridsome.config.js`
